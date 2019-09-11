@@ -1,4 +1,4 @@
-# foodstorm
+# Test Application
 
 ## Project setup
 ```
